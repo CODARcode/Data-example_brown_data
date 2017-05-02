@@ -10,3 +10,8 @@ Sample output from bpls:
  double     /__adios__/timers_1        {1, 8}*
 ```
 
+
+Compression ratio vs lossiness, and relative error plots are also available.
+
+![Compression ratio vs lossiness](CR_vs_lossiness.png)
+![Relative L2 error vs number of refinements](relErr_vs_levels.png)
